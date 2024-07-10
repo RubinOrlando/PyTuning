@@ -2,3 +2,4 @@ Sphinx>=1.4.3
 numpy
 sympy
 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
